@@ -64,7 +64,7 @@
             "path" : "pages/videos/videos",
             "style" :                                                                                    
             {
-                "navigationBarTitleText": "暗藏B站！嘘...",
+                "navigationBarTitleText": "夹藏私货，嘘...",
                 "enablePullDownRefresh": false
             }
             
